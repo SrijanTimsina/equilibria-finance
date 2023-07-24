@@ -350,7 +350,7 @@ body .first-container .navbar .links .social-links img {
 }
 
 @media screen and (max-width: 800px) {
-  body .first-container .navbar .logo svg {
+  body .first-container .navbar .logo img {
     width: 200px;
   }
   body .first-container .navbar .links .other-links a {
